@@ -1,3 +1,5 @@
+// Write a c program to convert farnhight to celcius
+
 #include <stdio.h>
 
 float fahrenheitToCelsius(float fahrenheit) {
